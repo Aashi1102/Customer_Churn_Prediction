@@ -12,7 +12,8 @@ Includes a **Streamlit web app** for real-time predictions.
 streamlit run app.py
 ```
 
-![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+<img width="1908" height="713" alt="image" src="https://github.com/user-attachments/assets/6cbbfd97-8a46-4303-95c5-29558b54585d" />
+
 
 ---
 
@@ -150,5 +151,5 @@ Publicly available on Kaggle:
 
 ## 🙋 Author
 
-Made by **[Your Name]**  
+Made by **Aashi Tomar**  
 Feel free to fork, star ⭐, or raise an issue!
