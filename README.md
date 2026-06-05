@@ -41,8 +41,7 @@ Customer churn prediction measures why customers are leaving a business. This pr
 ## 🗂️ Project Structure
 
 ```
-├── churn_improved.ipynb                    # Main notebook (improved version)
-├── churn.ipynb                             # Original baseline notebook
+├── churn.ipynb                     # Main notebook 
 ├── app.py                                  # Streamlit web app
 ├── churn_model.pkl                         # Trained stacking ensemble model
 ├── scaler.pkl                              # Fitted MinMaxScaler
